@@ -1,0 +1,5 @@
+What was the most helpful aspect of this code’s structure?
+The most helpful aspect of the code's structure was that everything was organized and the spacing was fluid. It was plesant to the eyes and very easy to read and comprehend. The functions performed each task and nothing more. The names of the variables and functions also made it easy to follow.
+
+What part was confusing or took longer to understand?
+The only part that was a bit confusing to me was the function mostReadBook(log). When checking for the existance of bookCounts[entry.book], I wasn;t sure what was going on. It made more sense after I studied it for a second. The code is checking for the key, value pair and adding it if it isn't found. This kind of structure works very well when counting individual items. I have seen this when counting occurances of characters in a string.
